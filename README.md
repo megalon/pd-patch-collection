@@ -2,7 +2,7 @@ A growing collection of patches that I've made for Pure Data Vanilla.
 
 ## Other PD Projects I've done
 
-[THE BEAT COP](https://github.com/megalon/pd-gui-examples/): A sampler drum machine inspired by the Teenage Engineering Pocket Operator
+[THE BEAT COP](https://github.com/megalon/THE_BEAT_COP): A sampler drum machine inspired by the Teenage Engineering Pocket Operator
 
 [AUTOMATONISM Sampler](https://github.com/megalon/pd-AUTOMATONISM-sampler): A deluxe sampler for AUTOMATONISM
 
